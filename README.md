@@ -1,0 +1,2 @@
+# self-controlled-drone
+Its a type of project were drone control themselves detecting obstructions and avoiding them and saving power to return to their station this is used for surveillance the concept is like that it will have  a set of lasers of around 800 meters and if laser gets an obstruction more 2 consecutive laser will gets activated measuring the obstrucltion and will change the its altitude as per obstruction to avoid it. hope u guys will like it  
